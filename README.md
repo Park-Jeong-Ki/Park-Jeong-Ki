@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Entry ML/DL engineer using Python
 
 <!--
 **Park-Jeong-Ki/Park-Jeong-Ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
