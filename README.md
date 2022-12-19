@@ -1,22 +1,8 @@
-### Hi there 👋 I'm Entry ML/DL engineer using Python
+### Things I do
 
-### Interest
-- CNN(Convolutional Neural Networks)
-- Data Analysis
-- Object Detection
+- **ML Engineer**
 
+### Find me at
 
-<!--
-**Park-Jeong-Ki/Park-Jeong-Ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://[(https://www.linkedin.com/in/jeonggipark/)]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:adieujw@gmail.com)](mailto:adieujw@gmail.com)
